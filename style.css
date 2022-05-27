@@ -1,0 +1,145 @@
+header {
+				width:960px;
+				margin-right:auto;
+				margin-left:auto;
+				margin-bottom: 40px;
+				height: 350px;
+				background-image: url(cieciewoda.png);
+	
+}
+body {
+	font: normal normal normal 10pt 'Tahoma';
+	width:949px;
+	margin-top:20px; 
+	margin-left: auto; 
+	margin-right: auto;
+	background-image: url('background.png');
+	background-repeat: repeat-x;
+	
+}
+
+ h1{
+ padding-top: 0px; 
+ text-align:top; 
+ margin-block-start: 0em;
+ font-size: 24pt;
+ }
+ .block-w65{
+	width:65%;
+	
+	float:left;
+	
+	margin-right: 5%;
+
+}
+
+.block-img{
+	margin-top: 20px;
+	position:fixed;
+
+}
+.block-img--rel{
+	margin-top: 30pt;
+  position: relative;
+}
+ .block-table{
+	 margin-top: 20px;
+	 font-size:17pt;
+	 width:100%; 
+	 font-weight:bold
+ }
+ .block-table td{
+	 width:80%; 
+	 height:37px
+ }
+.block-span {
+	font-size: 16pt;
+}
+.block-right{
+	width:30%;
+	float:left;
+}
+.block-span--small-size{
+	font-size: 14pt;
+}
+
+.block-button{
+	height:38px;
+	padding: 38px 0 0 0;
+	position: relative;
+}
+.button{
+	height: 38px;
+	width:24%;
+	margin-top: 6px;
+	border: none;
+  	border-radius: 10px;
+	color: white;
+  	font-family: Tahoma;
+	font-size: 22px;
+	font-weight: bold;
+	display:inline-flex;
+	align-items: center;
+	justify-content: center;	
+	text-align: center;
+	text-decoration: none;	
+	background-image: url(download.png);
+	background-repeat: no-repeat;
+
+}  
+.button:hover,
+.button:active {
+  background: #a927f5;
+  border-color: #a927f5;
+}  
+
+.uslugi{
+	text-align: center;
+	font-size: 32px;
+}
+.uslugi-block{
+	width: 40%;
+	padding: 15px 5% 0 5%;
+	float:left;
+	font-size: 16pt;
+	text-align: center;
+	justify-content: center;
+	padding: 40px 40px 0 40px;
+}
+.uslugi-ul{
+
+	font-size: 16pt;
+	text-align: left;
+	padding: 0;
+	line-height: 125%;
+	
+}
+.uslugi-block--span
+{
+	font-size: 18pt;
+}
+.material{
+	padding: 40px 0 0 0;
+
+ float:left;
+ text-align: center;
+
+}
+
+.material-video {
+	border-width:0;
+	width:450px;
+	height:393px;
+	margin: 0 10px 0 10px;
+}
+.cieciePlazma-text{
+	margin: 20px  37px 0 37px;
+	text-align: center;
+	float:left;
+	width: 60%;
+	font-size: 32px;
+}
+.kontakt{
+	width:50%;
+	font-size: 18pt;
+}
